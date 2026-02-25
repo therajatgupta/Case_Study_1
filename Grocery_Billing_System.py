@@ -5,6 +5,8 @@
 # Branch: ECE-B
 # -----------------------------------------------------------
 
+#demo change
+
 # Step 1: Ask user for number of different items
 items = int(input("Enter number of items in the bill: "))
 
